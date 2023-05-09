@@ -1,0 +1,28 @@
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 50px 0;
+  }
+  
+  .footer__content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .footer__left,
+  .footer__right {
+    flex-basis: 45%;
+  }
+  
+  .footer__left h3,
+  .footer__right h3 {
+    font-size: 1.5rem;
+  }
+  
+  .footer__bottom {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
